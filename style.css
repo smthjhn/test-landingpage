@@ -1,3 +1,12 @@
+@font-face {
+	font-family: Roboto;
+	src: url(http://www.fontsquirrel.com/fontfacekit/roboto);
+}
+
+html, body {
+	height: 100%;
+}
+
 body {
 	font-family: Roboto, serif;
 	display: flex;
@@ -7,4 +16,5 @@ body {
 
 .header {
 	background: #1F2937;
+	font-family: Roboto, serif;
 }

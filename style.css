@@ -2,3 +2,7 @@ body {
 	display: flex;
 	flex-direction: column;
 }
+
+.header {
+	background: #1F2937;
+}

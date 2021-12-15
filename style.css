@@ -1,7 +1,4 @@
-@font-face {
-	font-family: Roboto;
-	src: url(http://www.fontsquirrel.com/fontfacekit/roboto);
-}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 html, body {
 	height: 100%;
